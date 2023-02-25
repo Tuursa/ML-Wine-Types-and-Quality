@@ -67,3 +67,16 @@ The complexity arises due to the fact that the dataset has fewer samples, & is h
 * Try to build a model to predict Wine Type(red or white)
 * Try to build a model to predict Wine Quality(low, medium, or high)
 * Build an interactive model
+
+### This project is inspired from the book: "Practical Machine Learning with Python" by Dipanjan Sarkar, Raghav Bali, Tushar Sharma.
+
+Master the essential skills needed to recognize and solve complex problems with machine learning and deep learning. Using real-world examples that leverage the popular Python machine learning ecosystem, this book is your perfect companion for learning the art and science of machine learning to become a successful practitioner. The concepts, techniques, tools, frameworks, and methodologies used in this book will teach you how to think, design, build, and execute machine learning systems and projects successfully.
+
+### Check out: https://github.com/dipanjanS/practical-machine-learning-with-python#contents 
+
+## This res. contains three notebooks:
+* An EDA notebook for data analysis and viz.
+* A predictive analysis notebook
+* An interactive model notebook(local)
+
+## Watch for TYPOS!
